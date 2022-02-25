@@ -124,6 +124,7 @@ SITES = {
     'zhanqi'           : 'zhanqi',
     'zhibo'            : 'zhibo',
     'zhihu'            : 'zhihu',
+    'eduyun'           : 'eduyun',
 }
 
 dry_run = False
